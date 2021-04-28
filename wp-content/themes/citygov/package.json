@@ -1,0 +1,14 @@
+{
+  "name": "citygov",
+  "version": "1.0.0",
+  "description": "WordPress 4.0+ Ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}

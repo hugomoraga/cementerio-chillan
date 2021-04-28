@@ -1,0 +1,31 @@
+Version 1.0
+	Release
+
+Version 1.1
+    Fixed CSS errors
+
+Version 1.2
+    Updated Visual Composer (and others plugins) to the latest version.
+
+Version 1.3
+    Fixed some styles issues.
+
+Version 1.4
+    Fixed styles errors in header (logo offsets). Fixed shared buttons issues.
+
+Version 1.5
+    Updated Visual Composer to its latest version.
+    Updated Revolution Slider to its latest version.
+    Added new CSS styles.
+
+Version 1.5.1
+    Demo data installation improved.
+
+Version 1.6
+    Google Map updated.
+    Updated Revolution Slider to its latest version.
+
+Version 1.7
+    Updated documentation.
+    Updated Revolution Slider to its latest version.
+    Updated Visual Composer to its latest version.

@@ -1,0 +1,81 @@
+// This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+$primary: #ffffff;
+
+body {
+    font-family: 'Gentium Book Basic', sans-serif;
+    font-size: 18px;
+    line-height: 1.25;
+    background-color: #ffffff;
+}
+
+#wrapper-navbar {
+
+    .top-header-holder {
+        height:150px;
+        background-image: url(../../img/banner4.png);
+        text-align: center;
+        line-height: 300px;
+        .container {
+            .logo-holder {
+
+                
+                .logo {
+                    width: 800px;
+                    margin-bottom: 150px;
+
+                }
+            }
+        }
+    }
+     
+
+  
+    #main-nav {
+        background: #f1f1f1;
+
+        border-top: 1px solid rgba(#5Da0aa, 0.5);
+        border-bottom: 1px solid rgba(#5Da0aa, 0.5);
+        ul {
+            flex:1;
+            justify-content: space-between;
+            li {
+                a {
+                    font-weight: 500;
+                    font-size: 22px;
+                    text-transform: uppercase;
+                }
+                &.current_page_item {
+                    a {
+                        color: $secondary;
+                    }
+                }
+            }
+         
+        }
+
+    }
+}
+
+#intro {
+    .col-md-4 {
+        .square {
+            height: 100px;
+            background-color: blueviolet;
+        
+        
+        }
+    }
+}
+#hold-slider {
+    .col-md-4 {
+        height: 200px;
+    }
+    .slider {
+        height:500px;
+
+        color:#ffffff;
+        text-align:center;
+        font-size:3em;
+    }
+}
+
